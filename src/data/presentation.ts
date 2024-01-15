@@ -24,7 +24,7 @@ const presentation: Presentation = {
     },
     {
       label: "Instagram",
-      link: "https://bento.me/theazran_",
+      link: "https://instagram.com/theazran_",
     },
     {
       label: "Github",
